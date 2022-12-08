@@ -1,6 +1,5 @@
 import sys
 from collections import deque
-from itertools import repeat
 
 fileLocation = None
 if (len(sys.argv) >= 2):
